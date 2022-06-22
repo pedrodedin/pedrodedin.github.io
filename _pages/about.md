@@ -12,6 +12,6 @@ I am a Ph.D. student in neutrino physics and astrophysics at the University of C
 
 Topics of interest 
 ======
-* Neutrino physics 
-* Quatum field theory
-* Quantum mechanics foundations
+* Neutrino Physics 
+* Quatum Field Theory
+* Quantum Mechanics
