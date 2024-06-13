@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in neutrino physics and astrophysics at the University of Campinas Physics Institute. My Ph.D. project is aimed to understand the consequences of neutrino mass hierarchy in the detection of supernova neutrinos. One of the main obstacles is the understanding of flavor conversion in the supernova environment where neutrino-neutrino interactions lead to complicated non-linear evolution equations.
+I am a PhD candidat in neutrino physics and astrophysics at the University of Campinas Physics, Brazul. Currently, my research aims to improve our understanding of neutrino flavor conversion in supernovae while also exploring the sensitivity to standard and non-standard physics in the detection of these neutrinos.  
 
 Topics of interest 
 ======
-* Neutrino Physics 
-* Quatum Field Theory
-* Quantum Mechanics
+* Neutrino Astrophysics 
+* Neutrino Mass Models
+* Neutrino Eletromagnetic Properties
+* Quantum Foundations
