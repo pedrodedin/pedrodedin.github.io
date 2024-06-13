@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidat in neutrino physics and astrophysics at the University of Campinas Physics, Brazul. Currently, my research aims to improve our understanding of neutrino flavor conversion in supernovae while also exploring the sensitivity to standard and non-standard physics in the detection of these neutrinos.  
+I am a PhD candidat in neutrino physics and astrophysics at the University of Campinas Physics, Brazil. Currently, my research aims to improve our understanding of neutrino flavor conversion in supernovae while also exploring the sensitivity to standard and non-standard physics in the detection of these neutrinos.  
 
 Topics of interest 
 ======
