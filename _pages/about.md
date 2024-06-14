@@ -14,7 +14,7 @@ I am a PhD candidate in neutrino physics and astrophysics at the University of C
 <!-- ![alt text](images/SN_Neutrinos_XKCD.png "Title")
  -->
 <p align="center">
-  <img src="mages/SN_Neutrinos_XKCD.png" alt="Sublime's custom image"/>
+  <img src="images/SN_Neutrinos_XKCD.png" alt="Sublime's custom image"/>
 </p>
 
 
