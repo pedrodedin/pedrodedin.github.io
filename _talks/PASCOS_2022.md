@@ -1,5 +1,5 @@
 ---
-title: “Collective Effect in Supernova Neutrinos”
+title: "Collective Effect in Supernova Neutrinos"
 collection: talks
 type: "Talk"
 permalink: /talks/PASCOS_2022
