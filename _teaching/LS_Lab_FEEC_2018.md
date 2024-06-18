@@ -1,12 +1,15 @@
 ---
-title: "Graduate Teaching Assistant: Fundamental of Physics III - Electromagnetism"
+title: "Undergraduate Teaching Assistant: Linear Analysis Laboratory"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/F328_1S_2022
-venue: "University of Campinas, Gleb Wataghin Institute of Physics"
-date: 1st Semester 2022
+permalink: /teaching/LS_Lab_FEEC_2018
+venue: "University of Campinas"
+date: 2018
 location: "University of Campinas, Brazil"
 ---
+
+---
+
 <!-- This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
