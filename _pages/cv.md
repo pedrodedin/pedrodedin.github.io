@@ -32,6 +32,8 @@ Skills
 * **Programming Languages**: Python, C, C++, Julia, MATLAB
 * **Applications**: ROOT, LArSoft, LabVIEW, LATEX, Microsoft Office
 
+
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -53,5 +55,5 @@ Service and leadership
 ======
 *  President of the Association of Graduate Students in Physics, Gleb Wataghin
 Institute of Physics, University of Campinas, 2021-2022
- * Student Representative in the Department of Communications, Faculty of
+* Student Representative in the Department of Communications, Faculty of
 Electrical and Computer Engineering, University of Campinas, 2017
